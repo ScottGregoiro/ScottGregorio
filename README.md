@@ -1,6 +1,8 @@
-# Hi There
+# Welcome to SDG
 
-# ScottGregorio
-My Github Profile readme
+---
 
-# Hi There
+I am currently working on:
+- Costing Models in Infor CPQ
+- Mashups in Qlik
+- MCC - Learning Responsive Web Design
